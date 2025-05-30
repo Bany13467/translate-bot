@@ -9,7 +9,7 @@ from aiogram.client.default import DefaultBotProperties
 from googletrans import Translator
 
 # 🔐 Твои данные:
-BOT_TOKEN = "8192978308:AAGThB2NVmI9ga2PoS41tv27aGoJuRcIly4"
+BOT_TOKEN = "7817323682:AAGKPcuW3sp1OVLC2OiD1ypThFIbkWslX64"
 USER_ID = 6058368718  # твой Telegram ID
 
 # Настройка бота
